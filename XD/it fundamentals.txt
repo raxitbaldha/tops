@@ -1,0 +1,82 @@
+1.What are the hardware resources we can manage with OS?
+
+
+ANS:-An operating system (OS) is a set of computer programs and associated data structures that manage computer hardware resources, provide common services for application software, and act as an interface between application software and the computer hardware. 
+
+Hardware resources that can be managed with an OS include:
+
+1. Memory: An operating system manages memory by keeping track of how much memory is used, how much is available, and what processes are using what memory.
+
+2. Processors: An operating system manages processors by scheduling processes and managing their execution.
+
+3. Devices: An operating system manages devices by providing drivers and other software to control them.
+
+4. Storage: An operating system manages storage by managing data on hard drives, solid-state drives, and other storage media.
+
+5. Networking: An operating system manages networking by providing protocols and software to manage connections and data transfers.
+
+2.What is the difference between x8 and x64 architecture?
+
+
+ANS:-The x86 and x64 architectures refer to the instruction set architectures (ISA) used in modern processors. x86 is the most common ISA, used in Intel and AMD processors, while x64 is an extension of x86 that supports 64-bit computing.
+
+The main difference between x86 and x64 architectures is that x86 is a 32-bit architecture, while x64 is a 64-bit architecture. This means that x64 processors are designed to support more data and instructions than x86 processors. In addition, x64 processors also support a larger address space and more registers than x86 processors. As a result, x64 processors are able to perform more operations and handle more data in less time than x86 processors.
+
+3.List out the 5 main generations of CPU and technology used in it. 
+
+
+ANS:-1. First Generation (1951-1959): Vacuum Tubes, Magnetic Drums
+2. Second Generation (1959-1965): Transistors
+3. Third Generation (1965-1971): Integrated Circuits 
+4. Fourth Generation (1971-1981): Microprocessors
+5. Fifth Generation (1981-Present): Artificial Intelligence, Machine Learning, Neural Networks
+
+4.What is RAM and ROM?
+
+
+ANS:-RAM (Random Access Memory) is a form of computer data storage that stores data and machine code currently being used. It allows information to be stored and retrieved on an as-needed basis.
+
+ -ROM (Read-Only Memory) is a type of non-volatile memory used in computers and other electronic devices. Unlike RAM, ROM is pre-programmed and cannot be changed or erased by a user. It is used to store the start-up instructions for a computer and other permanent data such as the instructions for a calculator or game.
+
+5.10101 convert the number from binary to octal and binary to hexadecimal 
+
+
+ANS:-Binary to Octal: 22
+Binary to Hexadecimal: 0x15
+
+6.What are the security Softwares use in computer security?
+
+
+ANS:-1. Antivirus Software
+2. Malware Protection Software
+3. Firewall Software
+4. Intrusion Detection Software
+5. Encryption Software
+6. Data Loss Prevention Software
+7. Web Filtering Software
+8. Password Management Software
+9. Secure Access Software
+10. Network Monitoring Software
+
+7.What is the difference between physical firewall and software firewall?
+
+ANS:-A physical firewall is a hardware device that is installed in a network to protect it from external threats. It acts as a barrier between the trusted internal network and the untrusted external network. It inspects incoming and outgoing traffic and if it finds any malicious traffic, it blocks it from entering the network.
+
+A software firewall is an application that is installed on a computer or server to protect it from external threats. It works similarly to a physical firewall and inspects incoming and outgoing traffic. However, it does not provide the same level of protection as a physical firewall as it can be disabled by malicious programs or users.
+
+8.What is computer networking? 
+
+ANS:-Computer networking is the practice of connecting computers and devices to share resources and exchange data. Networks can be as small as two computers connected to each other, or as large as millions of computers connected to each other across the globe. Computer networks can be used to facilitate communication, share data, and provide access to shared resources and services.
+
+9.What is single mode fiber and multimode fiber? 
+
+ANS;-Single mode fiber is an optical fiber that carries only one ray of light, allowing for much greater distances between transmitters and receivers than multimode fiber. Single mode fiber is typically used for long-distance, high-speed communications.
+
+Multimode fiber is an optical fiber that carries multiple rays of light simultaneously, allowing for shorter distances between transmitters and receivers than single mode fiber. Multimode fiber is typically used for shorter-distance, lower-speed communications.
+
+10.What is cyber security?
+
+ANS:-Cyber security is the practice of protecting networks, systems, and programs from digital attacks. These attacks are usually aimed at accessing, changing, or destroying sensitive information, extorting money from users, or interrupting normal business processes. Cyber security includes a variety of security measures, such as firewalls, encryption, malware protection, and identity and access management, that are used to protect data and systems from unauthorized access and malicious attacks.
+
+
+
